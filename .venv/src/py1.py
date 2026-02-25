@@ -33,7 +33,7 @@ def get_google_finance_price(ticker):
 stock_no = "2330"
 current_price = get_google_finance_price(stock_no)
 
-print(f"1.0版本")
+print(f"2.0版本")
 print(f"--- 查詢結果 ---")
 print(f"股票代碼: {stock_no}")
 print(f"目前股價: {current_price}")
